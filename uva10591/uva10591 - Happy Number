@@ -1,0 +1,67 @@
+#include <iostream>
+#include <cstdio>
+#include <cstdlib>
+
+using namespace std;
+
+int main(){
+	#ifndef ONLINE_JUDGE
+	freopen("1.in","r",stdin);
+	freopen("2.out","w",stdout);
+	#endif
+	int input=0;
+	int check=0;
+	int arr[100];
+	int k=0;
+	int store=0;
+	int times=0;
+	int time=1;
+	int arrcheck[100];
+	int cou=0;
+	int flag =0;
+
+
+	cin >> times;
+	while(times--){
+		cin >> input;
+		check = input;
+		store = 0;
+
+			while(store!=input){
+				while(check>0){
+					arr[k] = check%10;
+					check/=10;
+					k++;
+				}
+				for(int i=k-1;i>=0;i--){
+					store = arr[i]*arr[i] + store;
+				}
+				k=0;
+				arrcheck[cou] = store;
+				cou++;
+
+				for(int i=0;i<cou-1;i++){
+					if(arrcheck[i] == store && store != 1){
+						printf("Case #%d: %d is an Unhappy number.\n",time,input);
+						time++;
+						flag=1;
+						break;
+					}
+				}
+				if(store==1){
+					printf("Case #%d: %d is a Happy number.\n",time,input);
+					time++;
+					break;
+				}
+				else if(flag==1){
+                    flag=0;
+                    break;
+				}
+				check = store;
+				store = 0;
+			}
+
+	}
+
+	system("pause");
+}
