@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cstdio>
+#include <cstring>
 
 using namespace std;
 
@@ -11,52 +12,51 @@ struct company{
 
 
 int main(void){
-	// #ifndef ONLINE_JUDGE
-	// freopen("uva10141.in","r",stdin);
-	// freopen("uva10141.out","w",stdout);
-	// #endif
+	#ifndef ONLINE_JUDGE
+	freopen("uva10141.in","r",stdin);
+	freopen("uva10141.out","w",stdout);
+	#endif
 	int n=0,p=0;
-	char service[1000][80];
-	while(cin >> n >> p){
+	int counter=1;
+	bool flag=0;
+	string service;
+	while(cin >> n >> p){	
 		if(!n && !p){
 			break;
 		}
+		if(flag)
+			cout << endl;
+		flag = 1;
 		for(int i=0;i<n;i++){
 			scanf("\n"); //先吃一個換行，因為getline會偷吃一個換行
-			cin.getline(service[i],80);
+			getline(cin,service);
 		}
 		// for(int i=0;i<n;i++){
 		// 	cout << service[i] << endl;
 		// }
-		float big_money=0;
-		int big_check=0;
 		string garbage;
-		string big_name;
+		company A;
+		company Best;
+		Best.r=0;
+		Best.d=100000;
 		while(p--){
-			company A;
-			getline(cin,A.name);
+			getline(cin , A.name);
 			cin >> A.d >> A.r;
+			getchar();
 			for(int i=0;i<A.r;i++){
-				scanf('\n');
 				getline(cin,garbage);
 			}
-			if(A.r > big_check){
-				big_check = A.r;
-				big_name = A.name;
+			if(A.r!=0){
+				if(A.r > Best.r){
+					Best = A; 
+				}
+				else if(A.r == Best.r && A.d < Best.d){
+					Best = A;
+				}
 			}
-			else if(A.r == big_check){
-				continue;
-			}
-			else if
-			if(A.d < big_money){
-				big_money = A.d;
-			}
-
-
 		}
-		
+		cout << "RFP #" << counter << "\n" << Best.name.c_str() << "\n";
+		counter++;	
 	}
-
-
 	return 0;
 }
