@@ -35,7 +35,7 @@ int main(void){
 			cout << setbase(10) << num << endl;
 		}
 		else{
-			ss >> setbase(10) >>num;
+			ss >> setbase(10) >> num;
 			cout << "0x" << uppercase << setbase(16) << num << endl;
 		}
 	}
