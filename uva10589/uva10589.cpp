@@ -4,6 +4,8 @@
 #include <iomanip>
 using namespace std;
 
+//pay attention on a must double type
+
 int main(void){
 	#ifndef ONLINE_JUDGE
 	freopen("uva10589.in","r",stdin);
