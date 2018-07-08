@@ -3,11 +3,11 @@
 
 using namespace std;
 
-void swap(int *a,int *b){
-	int *tmp = NULL;
-	*tmp = *a;
+void swapp(int *a,int *b){
+	int tmp;
+	tmp = *a;
 	*a = *b;
-	*b = *tmp;
+	*b = tmp;
 }
 
 int main(void){
@@ -27,7 +27,7 @@ int main(void){
 		scanf("%d",&b);
 		if(a > b)
 		{
-			swap(a,b);
+			swapp(&a,&b);
 		}
 		
 		for (int i = a; i <= b; ++i)
