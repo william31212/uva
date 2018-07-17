@@ -7,8 +7,6 @@ int main(void){
 	freopen("uva11498.in","r",stdin);
 	freopen("uva11498.out","w",stdout);
 	#endif
-
-
 	int times;
 	int midx , midy;
 	int x , y;
