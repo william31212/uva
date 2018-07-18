@@ -14,7 +14,6 @@ int main(void){
 	{
 		int e,f,c;
 		
-		
 		while(times--)
 		{
 			int ans = 0;
