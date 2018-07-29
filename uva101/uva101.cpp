@@ -113,7 +113,6 @@ int main(void){
 			
 					int proplem = now[a];
 					now[v[now[a]].back()] = now[b];
-					
 					v[proplem].pop_back();
 			
 					while(!tmp.empty())
