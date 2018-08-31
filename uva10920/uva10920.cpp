@@ -12,7 +12,7 @@ int main(int argc, char const *argv[])
 
 	int edge,step;
 	int arr[50001];
-	for(int i = 0; i < 50001 ; i++)//第一層尾端是1，第二層尾端是9
+	for(int i = 0; i < 50001 ; i++)//第一層尾端是1，第二尾層端是9
 	{
 		arr[i] = (i * 2) - 1;
 		arr[i] = arr[i] * arr[i];
