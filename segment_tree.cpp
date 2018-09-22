@@ -1,4 +1,6 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <algorithm>
+#include <cstdio>
 
 using namespace std;
 
@@ -25,14 +27,18 @@ int range_max(int segement[],int range_left,int range_right,int left,int right,i
 	{
 		return segement[pos];
 	}
-	if (qleft > right || qright < left)
+	if (range_left > right || range_right < left)
 	{
-		return -100000;
+		return -1000000;
+	}
+	else
+	{
+		int mid = (left + right) / 2;
+		return max(range_max(segement , range_left , range_right , left , mid , 2*pos+1), range_max(segement , range_left , range_right ,mid+1 ,right ,2*pos+2));
 	}
 
 
 }
-
 
 
 
@@ -54,6 +60,12 @@ int main()
 	{
 		printf("%d ", segement[i]);
 	}
+	printf("\n");
+
+	int left,right;
+
+	while(scanf("%d %d",&left,&right) != EOF)
+		printf("max:%d\n",range_max(segement,left,right,0,3,0));
 	
 	return 0;
 
