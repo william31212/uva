@@ -3,12 +3,12 @@
 using namespace std;
 
 #define TESTC ""
-#define PROBLEM "p5"
+#define PROBLEM "uva10391"
 #define N 120000
 #define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
 
 int head[N+10];
-int n,tot;
+int n,arr_index;
 string str[N+10];
 
 struct list
@@ -29,15 +29,16 @@ size_t BKDRHash(const char str[])
 		hash = hash * seed + (*str++);
 	}
 
-	return (hash & 0x7FFFFFFF) % N;
+	return (hash & 0x7FFFFFFF) % 100;
 }
 
 void add(unsigned int index,int m)
 {
-	arr[tot].data = m;
-	arr[tot].next = head[index];
-	head[index] = tot++;
+	arr[arr_index].data = m;
+	arr[arr_index].next = head[index];
+	head[index] = arr_index++;
 }
+
 
 bool canfind(string str_input)
 {
@@ -62,7 +63,7 @@ int main()
 	freopen(PROBLEM ".out", "w", stdout);
 	#endif
 
-	n = tot = 0;
+	n = arr_index = 0;
 	memset(head,-1,sizeof(head));
 	
 	while(cin >> str[n])

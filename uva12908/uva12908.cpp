@@ -47,21 +47,9 @@ int main(void){
 			arr[i] = (i + 1) + arr[i-1];
 	}
 
-	// for (int i = 1; i <= 134; ++i)
-	// {
-	// 	printf("%d\n", arr[i]);
-	// }
-
 	while(scanf("%d",&num) && num)
 	{
 		int position;
-		// for (int i = 0; i < 15000 ; ++i)
-		// {
-		// 	if (num >= arr[i])
-		// 	{
-		// 		position = i+1; 
-		// 	}
-		// }
 
 		position = binary_search(arr,1,15000,num);
 
