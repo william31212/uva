@@ -39,6 +39,7 @@ int main()
 				path[1][i][j] = i;
 			}
 		}
+		
 
 		
 		double tmp = 0;
@@ -66,8 +67,6 @@ int main()
 			}					
 		}		
 
-
-
 		stack <int> stk;
 		bool flag = 0;
 		for (int k = 1; k <= kind; k++)
@@ -83,7 +82,7 @@ int main()
 							for (int road = k ; road >= 1; road--)
 							{
 								stk.push(path[road][i][j]);
-								j = path[road][i][j];
+								j = path[road][i][j];/*關鍵*/
 								flag = 1;
 							}
 							break;
