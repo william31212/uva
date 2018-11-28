@@ -2,7 +2,7 @@
 
 using namespace std;
 
-#define PROBLEM "A"
+#define PROBLEM "uva147"
 #define TESTC ""
 
 #define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
