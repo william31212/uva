@@ -14,8 +14,6 @@ typedef pair<int, int> P;
 #define PB push_back
 
 
-
-
 int main()
 {
 	#ifdef DBG
@@ -63,6 +61,7 @@ int main()
 			k++;
 		}
 
+		
 
 	}
 
