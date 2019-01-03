@@ -44,14 +44,13 @@ int main()
 				realsize++;
 			}
 		}
-		
 
 		sort(node,node+realsize);
-
 
 		if (node[0].F > 0)
 		{
 			printf("-1\n");
+
 			continue;
 		}
 
@@ -76,7 +75,7 @@ int main()
 				ans++;
 				Left = Right;
 			}
-			else
+			else if (Right == Left)
 			{
 				break;
 			}
@@ -87,7 +86,7 @@ int main()
 		{
 			ans = -1;
 		}
-		printf("%d\n",ans );
+		printf("%d\n",ans);
 
 	}
 
