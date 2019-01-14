@@ -37,7 +37,7 @@ int main()
 		}
 		for (int i = 0; i < t; i++)
 		{
-			printf("%d", s[i]);
+			printf("%d", str[i]);
 		}
 		printf("\n");
 	}
