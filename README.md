@@ -1,5 +1,5 @@
 # UVA
-
+ 
 * [x] uva100 - The 3n + 1 problem
 * [x] uva101 - The Blocks Problem
 * [x] uva102 - Ecological Bin Packing
@@ -13,6 +13,7 @@
 * [x] uva145 - Gondwanaland Telecom
 * [x] uva146 - ID Codes
 * [x] uva147 - Dollars
+* [x] uva167 - The Sultan's Successors
 * [x] uva272 - TEX Quotes
 * [x] uva294 - Divisors
 * [x] uva352 - The Seasonal War
