@@ -1,5 +1,5 @@
 # UVA
- 
+
 * [x] uva100 - The 3n + 1 problem
 * [x] uva101 - The Blocks Problem
 * [x] uva102 - Ecological Bin Packing
@@ -27,10 +27,12 @@
 * [x] uva477 - Points in Figures: Rectangles and Circles
 * [x] uva488 - Triangle Wave
 * [x] uva514 - Rails
+* [x] uva524 - Prime Ring Problem
 * [x] uva579 - Clock Hands
 * [x] uva591 - Box of Bricks
 * [x] uva674 - Coin Change
 * [x] uva686 - Goldbach's Conjecture (II)
+* [x] uva750 - 8 Queens Chess Problem
 * [x] uva908 - Re-connecting Computer Sites
 * [x] uva913 - Joana and the Odd Numbers
 * [x] uva1149 - Bin Packing
@@ -116,7 +118,7 @@
 * [x] uva11743 - Credit Check
 * [x] uva11764 - Jumping Mario
 * [x] uva11875 - Brick Game
-* [x] uva11879 - Multiple of 17	
+* [x] uva11879 - Multiple of 17
 * [x] uva11936 - The Lazy Lumberjacks
 * [x] uva11942 - Lumberjack Sequencing
 * [x] uva11984 - A Change in Thermal Unit
@@ -128,7 +130,7 @@
 * [x] uva12195 - Jingle Composing
 * [x] uva12208 - How Many Ones Needed?
 * [x] uva12289 - One-Two-Three
-* [x] uva12356 - Army Buddies	
+* [x] uva12356 - Army Buddies
 * [x] uva12405 - Scarecrow
 * [x] uva12406 - Help Dexter
 * [x] uva12414 - Calculating Yuan Fen

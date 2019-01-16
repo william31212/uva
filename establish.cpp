@@ -2,10 +2,16 @@
 
 using namespace std;
 
-struct fuck
-{
+struct Record {
+    string name;
+    int score;
+    friend istream& operator>>(istream& is, Record& r)       { return is >> r.name         >> r.score; }
+    friend ostream& operator<<(ostream& os, Record const& r) { return os << r.name << "\t" << r.score; }
 
-}
+    bool operator<(Record const& other) const {
+        return other.score < score;
+    }
+};
 
 int main()
 {
@@ -19,57 +25,24 @@ int main()
     printf("enter the question name:\n");
     cin >> str;
 
+
+
+    ifstream ifs("README.md");
     string tmp;
-    bool flag = 0;
-    vector <string> vec;
-    long len = 0;
-    while(getline(fs,tmp))
+    while(getline(ifs,tmp))
     {
-        char is_num[] = "0";
-        memset(is_num,'0',sizeof(is_num));
-        int k = 0;
-        int problem = 0;
-        if (tmp[6] == 'u' && tmp[7] == 'v' && tmp[8] == 'a')
+        for (int i = 0; i < tmp.size(); ++i)
         {
-            for (int i = 9; tmp[i] != ' ' ; ++i)
-            {
-                is_num[k++] = tmp[i];
-            }
-
-            problem = atoi(is_num);
-
-            if (num < problem)
-            {
-                cout << len << '\n';
-                while(getline(fs,tmp))
-                {
-                    vec.push_back(tmp);
-                }
-                break;
-            }
-
-            len += tmp.size();
-        }
-        else
-        {
-            cout << len << '\n';
-            len += tmp.size();
+            
         }
     }
+    vector <Record> vec;
 
+    vec.push((Record){str,num});
 
-    // fs.seekp(len);
-    // cout << "ga" << len << '\n';
-    // fs << '\n' <<"* [ ] uva" << num << " - " << str;
+    sort(vec.begin(),vec.end());
 
-
-    // fs.seekp(len,ios::end);
-    // for (int i = 0; i < vec.size(); ++i)
-    // {
-    //     fs << vec[i] << '\n';
-    // }
-
-    // fs.close();
+    ofstream ofs("")
 
 
 
