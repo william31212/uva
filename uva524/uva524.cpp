@@ -33,7 +33,7 @@ bool isprime(int n)
 void back_track(int fuck,int n)
 {
 
-	if (n == size -1  && isprime(fuck + 1))
+	if (n == size - 1  && isprime(fuck + 1))
 	{
 		for (int i = 0; i < size; ++i)
 		{
