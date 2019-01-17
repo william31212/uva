@@ -66,7 +66,7 @@
 * [x] uva10370 - Above Average
 * [x] uva10382 - Watering Grass
 * [x] uva10391 - Compound Words
-* [] uva10405 - Longest Common Subsequence
+* [x] uva10405 - Longest Common Subsequence
 * [x] uva10409 - Die Game
 * [x] uva10473 - Simple Base Conversion
 * [x] uva10499 - The Land of Justice
