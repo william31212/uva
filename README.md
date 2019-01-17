@@ -43,6 +43,7 @@
 * [x] uva1610 - Party Games
 * [x] uva1617 - Laptop
 * [x] uva1619 - Feel Good
+* [x] uva10015 - Joseph's Cousin
 * [x] uva10018 - Reverse and Add
 * [x] uva10035 - Primary Arithmetic
 * [x] uva10038 - Jolly Jumpers

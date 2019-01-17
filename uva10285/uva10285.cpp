@@ -27,7 +27,7 @@ int walk(int i,int j,int length)
 			walk(i-1,j,length+1);
 			a = 0;
 		}
-		
+
 	}
 
 	if (i + 1 < i_max && i + 1 >= 0)//down
@@ -38,7 +38,7 @@ int walk(int i,int j,int length)
 			walk(i+1,j,length+1);
 			b = 0;
 		}
-		
+
 	}
 
 	if (j - 1 < j_max && j - 1 >= 0 )//left
@@ -48,7 +48,7 @@ int walk(int i,int j,int length)
 			c = 1;
 			walk(i,j-1,length+1);
 			c = 0;
-		}	
+		}
 	}
 
 
@@ -60,17 +60,17 @@ int walk(int i,int j,int length)
 			walk(i,j+1,length+1);
 			d = 0;
 		}
-		
+
 	}
  	// printf("%d %d %d %d\n",a,b,c,d);
-	
+
 	if (a || b || c || d)//已到盡頭
 	{
 		max_length = max(max_length,length);
 		return max_length;
 	}
 
-	
+
 }
 
 
@@ -85,7 +85,7 @@ int main()
 	scanf("%d",&times);
 
 	char name[100];
-		
+
 	while(times--)
 	{
 		memset(area,0,sizeof(area));
@@ -110,7 +110,7 @@ int main()
 			{
 				// printf("%d\n",walk(i,j,1));
 				ans = max(ans , walk(i,j,1));
-				
+
 			}
 		}
 		if (ans == 0)
@@ -118,7 +118,7 @@ int main()
 			ans = 1;
 		}
 		printf("%s: %d\n",name,ans);
-		
+
 	}
 	return 0;
 }
