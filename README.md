@@ -21,6 +21,7 @@
 * [x] uva357 - Let Me Count The Ways
 * [x] uva374 - Big Mod
 * [x] uva392 - Polynomial Showdown
+* [x] uva402 - M\*A\*S\*H
 * [x] uva455 - Periodic Strings
 * [x] uva458 - The Decoder
 * [x] uva476 - Points in Figures: Rectangles
