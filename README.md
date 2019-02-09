@@ -33,6 +33,7 @@
 * [x] uva591 - Box of Bricks
 * [x] uva674 - Coin Change
 * [x] uva686 - Goldbach's Conjecture (II)
+* [ ] uva714 - Copying Books
 * [x] uva750 - 8 Queens Chess Problem
 * [x] uva908 - Re-connecting Computer Sites
 * [x] uva913 - Joana and the Odd Numbers
