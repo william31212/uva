@@ -31,6 +31,7 @@
 * [x] uva524 - Prime Ring Problem
 * [x] uva579 - Clock Hands
 * [x] uva591 - Box of Bricks
+* [x] uva624 - CD
 * [x] uva674 - Coin Change
 * [x] uva686 - Goldbach's Conjecture (II)
 * [ ] uva714 - Copying Books
