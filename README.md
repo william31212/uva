@@ -1,154 +1,156 @@
 # UVA
 
-* [x] uva100 - The 3n + 1 problem
-* [x] uva101 - The Blocks Problem
-* [x] uva102 - Ecological Bin Packing
-* [x] uva104 - Arbitrage
-* [x] uva107 - The Cat in the Hat
-* [x] uva111 - History Grading
-* [x] uva113 - Power of Cryptography
-* [x] uva118 - Mutant Flatworld Explorers
-* [x] uva127 - "Accordian" Patience
-* [x] uva130 - Roman Roulette
-* [x] uva145 - Gondwanaland Telecom
-* [x] uva146 - ID Codes
-* [x] uva147 - Dollars
-* [x] uva167 - The Sultan's Successors
-* [x] uva272 - TEX Quotes
-* [x] uva294 - Divisors
-* [x] uva352 - The Seasonal War
-* [x] uva353 - Pesky Palindromes
-* [x] uva357 - Let Me Count The Ways
-* [x] uva374 - Big Mod
-* [x] uva392 - Polynomial Showdown
-* [x] uva402 - M\*A\*S\*H
-* [x] uva455 - Periodic Strings
-* [x] uva458 - The Decoder
-* [x] uva476 - Points in Figures: Rectangles
-* [x] uva477 - Points in Figures: Rectangles and Circles
-* [x] uva488 - Triangle Wave
-* [x] uva514 - Rails
-* [x] uva524 - Prime Ring Problem
-* [x] uva579 - Clock Hands
-* [x] uva591 - Box of Bricks
-* [x] uva624 - CD
-* [x] uva674 - Coin Change
-* [x] uva686 - Goldbach's Conjecture (II)
-* [ ] uva714 - Copying Books
-* [x] uva750 - 8 Queens Chess Problem
-* [x] uva908 - Re-connecting Computer Sites
-* [x] uva913 - Joana and the Odd Numbers
-* [x] uva1149 - Bin Packing
-* [x] uva1152 - 4 Values whose Sum is 0
-* [x] uva1213 - Sum of Different Primes
-* [x] uva1234 - RACING
-* [x] uva1513 - Movie collection
-* [x] uva1610 - Party Games
-* [x] uva1617 - Laptop
-* [x] uva1619 - Feel Good
-* [x] uva10015 - Joseph's Cousin
-* [x] uva10018 - Reverse and Add
-* [x] uva10035 - Primary Arithmetic
-* [x] uva10038 - Jolly Jumpers
-* [x] uva10055 - Hashmat the Brave Warrior
-* [x] uva10062 - Tell me the frequencies!
-* [x] uva10071 - Back to High School Physics
-* [x] uva10082 - WERTYU
-* [x] uva10107 - What is the Median?
-* [x] uva10127 - Ones
-* [x] uva10130 - SuperSale
-* [x] uva10141 - Request for Proposal
-* [x] uva10178 - Count the Faces.
-* [x] uva10209 - Is This Integration ?
-* [x] uva10222 - Decode the Mad man
-* [x] uva10258 - Contest Scoreboard
-* [x] uva10285 - Longest Run on a Snowboard
-* [x] uva10300 - Ecological Premium
-* [x] uva10340 - All in All
-* [x] uva10364 - Square
-* [x] uva10370 - Above Average
-* [x] uva10382 - Watering Grass
-* [x] uva10391 - Compound Words
-* [x] uva10405 - Longest Common Subsequence
-* [x] uva10409 - Die Game
-* [x] uva10473 - Simple Base Conversion
-* [x] uva10499 - The Land of Justice
-* [x] uva10550 - Combination Lock
-* [x] uva10570 - Meeting with Aliens
-* [x] uva10589 - Area
-* [x] uva10591 - Happy Number
-* [x] uva10673 - Play with Floor and Ceil
-* [x] uva10696 - f91
-* [x] uva10783 - Odd Sum
-* [x] uva10789 - Prime Frequency
-* [x] uva10812 - Beat the Spread!
-* [x] uva10855 - Rotated square
-* [x] uva10878 - Decode the tape
-* [x] uva10903 - Rock-Paper-Scissors Tournament
-* [x] uva10920 - Spiral Tap
-* [x] uva10924 - Prime Words
-* [x] uva10929 - You can say 11
-* [x] uva10963 - The Swallowing Ground
-* [x] uva10976 - Fractions Again?!
-* [x] uva11059 - Maximum Product
-* [x] uva11172 - Relational Operator
-* [x] uva11185 - Ternary
-* [x] uva11192 - Group Reverse
-* [x] uva11204 - Musical instruments
-* [x] uva11219 - How old are you?
-* [x] uva11235 - Frequent values
-* [x] uva11321 - Sort! Sort!! and Sort!!!
-* [x] uva11332 - Summing Digits
-* [x] uva11340 - Newspaper
-* [x] uva11352 - Crazy King
-* [x] uva11364 - Parking
-* [ ] uva11367 - Full Tank?
-* [x] uva11369 - Shopaholic
-* [x] uva11374 - Airport Express
-* [x] uva11398 - The Base-1 Number System
-* [x] uva11401 - Triangle Counting
-* [x] uva11417 - GCD
-* [x] uva11455 - Behold my quadrangle
-* [x] uva11479 - Is this the easiest problem?
-* [x] uva11491 - Erasing and Winning
-* [x] uva11494 - Queen
-* [x] uva11498 - Division of Nlogonia
-* [x] uva11541 - Decoding
-* [x] uva11577 - Letter Frequency
-* [x] uva11582 - Colossal Fibonacci Numbers!
-* [x] uva11661 - Burger Time?
-* [x] uva11687 - Digits
-* [x] uva11689 - Soda Surpler
-* [x] uva11716 - Digital Fortress
-* [x] uva11743 - Credit Check
-* [x] uva11764 - Jumping Mario
-* [x] uva11875 - Brick Game
-* [x] uva11879 - Multiple of 17
-* [x] uva11936 - The Lazy Lumberjacks
-* [x] uva11942 - Lumberjack Sequencing
-* [x] uva11984 - A Change in Thermal Unit
-* [x] uva11988 - Broken Keyboard (a.k.a. Beiju Text)
-* [x] uva11991 - Easy Problem from Rujia Liu?
-* [x] uva11997 - K Smallest Sums
-* [x] uva12019 - Doom's Day Algorithm
-* [x] uva12149 - Feynman
-* [x] uva12195 - Jingle Composing
-* [x] uva12208 - How Many Ones Needed?
-* [x] uva12289 - One-Two-Three
-* [x] uva12356 - Army Buddies
-* [x] uva12405 - Scarecrow
-* [x] uva12406 - Help Dexter
-* [x] uva12414 - Calculating Yuan Fen
-* [x] uva12416 - Excessive Space Remover
-* [x] uva12455 - Bars
-* [x] uva12459 - Bees' ancestors
-* [x] uva12461 - Airplane
-* [x] uva12468 - Zapping
-* [x] uva12602 - Nice Licence Plates
-* [x] uva12650 - Dangerous Dive
-* [x] uva12694 - Meeting Room Arrangement
-* [x] uva12908 - The book thief
-* [x] uva13178 - Is it multiple of 3?
-* [x] uva13185 - DPA Numbers I
-* [x] uva13187 - Felipe and the Sequence
-* [x] uva13216 - Problem with a ridiculously long name but with a ridiculously short description
+* [X] uva100 - The 3n + 1 problem
+* [X] uva101 - The Blocks Problem
+* [X] uva102 - Ecological Bin Packing
+* [X] uva104 - Arbitrage
+* [X] uva107 - The Cat in the Hat
+* [X] uva111 - History Grading
+* [X] uva113 - Power of Cryptography
+* [X] uva118 - Mutant Flatworld Explorers
+* [X] uva127 - "Accordian" Patience
+* [X] uva130 - Roman Roulette
+* [X] uva145 - Gondwanaland Telecom
+* [X] uva146 - ID Codes
+* [X] uva147 - Dollars
+* [X] uva167 - The Sultan's Successors
+* [X] uva272 - TEX Quotes
+* [X] uva294 - Divisors
+* [X] uva352 - The Seasonal War
+* [X] uva353 - Pesky Palindromes
+* [X] uva357 - Let Me Count The Ways
+* [X] uva374 - Big Mod
+* [X] uva392 - Polynomial Showdown
+* [X] uva402 - M\*A\*S\*H
+* [X] uva455 - Periodic Strings
+* [X] uva458 - The Decoder
+* [X] uva476 - Points in Figures: Rectangles
+* [X] uva477 - Points in Figures: Rectangles and Circles
+* [X] uva488 - Triangle Wave
+* [X] uva514 - Rails
+* [X] uva524 - Prime Ring Problem
+* [X] uva579 - Clock Hands
+* [X] uva591 - Box of Bricks
+* [X] uva624 - CD
+* [X] uva674 - Coin Change
+* [X] uva686 - Goldbach's Conjecture (II)
+* [X] uva714 - Copying Books
+* [X] uva750 - 8 Queens Chess Problem
+* [X] uva908 - Re-connecting Computer Sites
+* [X] uva913 - Joana and the Odd Numbers
+* [X] uva990 - Diving for gold
+* [X] uva1149 - Bin Packing
+* [X] uva1152 - 4 Values whose Sum is 0
+* [X] uva1213 - Sum of Different Primes
+* [X] uva1234 - RACING
+* [X] uva1513 - Movie collection
+* [X] uva1610 - Party Games
+* [X] uva1617 - Laptop
+* [X] uva1619 - Feel Good
+* [X] uva10015 - Joseph's Cousin
+* [X] uva10018 - Reverse and Add
+* [X] uva10035 - Primary Arithmetic
+* [X] uva10038 - Jolly Jumpers
+* [X] uva10055 - Hashmat the Brave Warrior
+* [X] uva10062 - Tell me the frequencies!
+* [X] uva10071 - Back to High School Physics
+* [X] uva10082 - WERTYU
+* [X] uva10107 - What is the Median?
+* [X] uva10127 - Ones
+* [X] uva10130 - SuperSale
+* [X] uva10141 - Request for Proposal
+* [X] uva10178 - Count the Faces.
+* [X] uva10209 - Is This Integration ?
+* [X] uva10222 - Decode the Mad man
+* [X] uva10258 - Contest Scoreboard
+* [X] uva10285 - Longest Run on a Snowboard
+* [X] uva10300 - Ecological Premium
+* [X] uva10340 - All in All
+* [X] uva10364 - Square
+* [X] uva10370 - Above Average
+* [X] uva10382 - Watering Grass
+* [X] uva10391 - Compound Words
+* [X] uva10405 - Longest Common Subsequence
+* [X] uva10409 - Die Game
+* [X] uva10473 - Simple Base Conversion
+* [X] uva10499 - The Land of Justice
+* [X] uva10550 - Combination Lock
+* [X] uva10570 - Meeting with Aliens
+* [X] uva10589 - Area
+* [X] uva10591 - Happy Number
+* [X] uva10673 - Play with Floor and Ceil
+* [X] uva10696 - f91
+* [X] uva10783 - Odd Sum
+* [X] uva10789 - Prime Frequency
+* [X] uva10812 - Beat the Spread!
+* [X] uva10819 - Trouble of 13-Dots
+* [X] uva10855 - Rotated square
+* [X] uva10878 - Decode the tape
+* [X] uva10903 - Rock-Paper-Scissors Tournament
+* [X] uva10920 - Spiral Tap
+* [X] uva10924 - Prime Words
+* [X] uva10929 - You can say 11
+* [X] uva10963 - The Swallowing Ground
+* [X] uva10976 - Fractions Again?!
+* [X] uva11059 - Maximum Product
+* [X] uva11172 - Relational Operator
+* [X] uva11185 - Ternary
+* [X] uva11192 - Group Reverse
+* [X] uva11204 - Musical instruments
+* [X] uva11219 - How old are you?
+* [X] uva11235 - Frequent values
+* [X] uva11321 - Sort! Sort!! and Sort!!!
+* [X] uva11332 - Summing Digits
+* [X] uva11340 - Newspaper
+* [X] uva11352 - Crazy King
+* [X] uva11364 - Parking
+* [X] uva11367 - Full Tank?
+* [X] uva11369 - Shopaholic
+* [X] uva11374 - Airport Express
+* [X] uva11398 - The Base-1 Number System
+* [X] uva11401 - Triangle Counting
+* [X] uva11417 - GCD
+* [X] uva11455 - Behold my quadrangle
+* [X] uva11479 - Is this the easiest problem?
+* [X] uva11491 - Erasing and Winning
+* [X] uva11494 - Queen
+* [X] uva11498 - Division of Nlogonia
+* [X] uva11541 - Decoding
+* [X] uva11577 - Letter Frequency
+* [X] uva11582 - Colossal Fibonacci Numbers!
+* [X] uva11661 - Burger Time?
+* [X] uva11687 - Digits
+* [X] uva11689 - Soda Surpler
+* [X] uva11716 - Digital Fortress
+* [X] uva11743 - Credit Check
+* [X] uva11764 - Jumping Mario
+* [X] uva11875 - Brick Game
+* [X] uva11879 - Multiple of 17
+* [X] uva11936 - The Lazy Lumberjacks
+* [X] uva11942 - Lumberjack Sequencing
+* [X] uva11984 - A Change in Thermal Unit
+* [X] uva11988 - Broken Keyboard (a.k.a. Beiju Text)
+* [X] uva11991 - Easy Problem from Rujia Liu?
+* [X] uva11997 - K Smallest Sums
+* [X] uva12019 - Doom's Day Algorithm
+* [X] uva12149 - Feynman
+* [X] uva12195 - Jingle Composing
+* [X] uva12208 - How Many Ones Needed?
+* [X] uva12289 - One-Two-Three
+* [X] uva12356 - Army Buddies
+* [X] uva12405 - Scarecrow
+* [X] uva12406 - Help Dexter
+* [X] uva12414 - Calculating Yuan Fen
+* [X] uva12416 - Excessive Space Remover
+* [X] uva12455 - Bars
+* [X] uva12459 - Bees' ancestors
+* [X] uva12461 - Airplane
+* [X] uva12468 - Zapping
+* [X] uva12602 - Nice Licence Plates
+* [X] uva12650 - Dangerous Dive
+* [X] uva12694 - Meeting Room Arrangement
+* [X] uva12908 - The book thief
+* [X] uva13178 - Is it multiple of 3?
+* [X] uva13185 - DPA Numbers I
+* [X] uva13187 - Felipe and the Sequence
+* [X] uva13216 - Problem with a ridiculously long name but with a ridiculously short description

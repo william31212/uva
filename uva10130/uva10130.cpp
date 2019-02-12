@@ -57,7 +57,7 @@ int main()
 
 			for (int k = 1; k <= upper; ++k)
 			{
-				ans[0][k] = ans[1][k]; 
+				ans[0][k] = ans[1][k];
 			}
 		}
 

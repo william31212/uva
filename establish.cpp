@@ -19,16 +19,14 @@ int main()
     vec.clear();
     int num;
     string str;
-    char isok;
+    char isok,garbage;
     printf("Enter the question number:\n");
     cin >> num;
     printf("Enter the question name:\n");
-    cin >> str;
     getchar();
+    getline(cin,str);
     printf("isok? (Y/N)\n");
     cin >> isok;
-
-
 
 
     ifstream ifs("README.md");
@@ -43,9 +41,9 @@ int main()
 
         if (tmp[6] == 'u' && tmp[7] == 'v' && tmp[8] == 'a')
         {
-            if (tmp[3] == 'x')
+            if (tmp[3] == 'X')
             {
-                aks_tmp = 'x';
+                aks_tmp = 'X';
             }
             else
             {
@@ -73,7 +71,7 @@ int main()
     }
 
     if (isok == 'y' || isok == 'Y')
-       vec.push_back((Record){str,'x',num});
+       vec.push_back((Record){str,'X',num});
     else if (isok == 'n' || isok == 'N')
        vec.push_back((Record){str,' ',num});
     else
@@ -94,9 +92,6 @@ int main()
     {
         ofs << "* [" << vec[i].aks << "] uva" << vec[i].score << " - " << vec[i].name << '\n';
     }
-
-
-
 
     return 0;
 }
