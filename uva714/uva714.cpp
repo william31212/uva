@@ -85,7 +85,7 @@ int main()
 		LL sum = 0;
 		int tmp = k;
 
-		for (int i = n-1 ; i >= 0 ; --i)
+		for (int i = n-1 ; i >= 0 ; --i)//題目要求若有多組解，後面工人的頁數盡量多一點，所以從最右開始分配
 		{
 			if (sum + arr[i] > R || i + 1 < tmp)//該劃界線 or 書還有剩但還要分很多
 			{
