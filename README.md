@@ -1,53 +1,54 @@
 # UVA
 
-* [X] uva100 - The 3n + 1 problem
-* [X] uva101 - The Blocks Problem
-* [X] uva102 - Ecological Bin Packing
-* [X] uva104 - Arbitrage
-* [X] uva107 - The Cat in the Hat
-* [X] uva111 - History Grading
-* [X] uva113 - Power of Cryptography
-* [X] uva118 - Mutant Flatworld Explorers
-* [X] uva127 - "Accordian" Patience
-* [X] uva130 - Roman Roulette
-* [X] uva145 - Gondwanaland Telecom
-* [X] uva146 - ID Codes
-* [X] uva147 - Dollars
-* [X] uva167 - The Sultan's Successors
-* [X] uva272 - TEX Quotes
-* [X] uva294 - Divisors
-* [X] uva352 - The Seasonal War
-* [X] uva353 - Pesky Palindromes
-* [X] uva357 - Let Me Count The Ways
-* [X] uva374 - Big Mod
-* [X] uva392 - Polynomial Showdown
-* [X] uva402 - M\*A\*S\*H
-* [X] uva455 - Periodic Strings
-* [X] uva458 - The Decoder
-* [X] uva476 - Points in Figures: Rectangles
-* [X] uva477 - Points in Figures: Rectangles and Circles
-* [X] uva488 - Triangle Wave
-* [X] uva514 - Rails
-* [X] uva524 - Prime Ring Problem
-* [x] uva572 - Oil Deposits
-* [X] uva579 - Clock Hands
-* [X] uva591 - Box of Bricks
-* [X] uva624 - CD
-* [X] uva674 - Coin Change
-* [X] uva686 - Goldbach's Conjecture (II)
-* [X] uva714 - Copying Books
-* [X] uva750 - 8 Queens Chess Problem
-* [X] uva908 - Re-connecting Computer Sites
-* [X] uva913 - Joana and the Odd Numbers
-* [X] uva990 - Diving for gold
+* [X] uva1001 - The 3n + 1 problem
+* [X] uva1011 - The Blocks Problem
+* [X] uva1021 - Ecological Bin Packing
+* [X] uva1041 - Arbitrage
+* [X] uva1071 - The Cat in the Hat
+* [X] uva1111 - History Grading
+* [X] uva1131 - Power of Cryptography
 * [X] uva1149 - Bin Packing
 * [X] uva1152 - 4 Values whose Sum is 0
+* [X] uva1181 - Mutant Flatworld Explorers
+* [X] uva1203 - Argus
 * [X] uva1213 - Sum of Different Primes
 * [X] uva1234 - RACING
+* [X] uva1271 - "Accordian" Patience
+* [X] uva1301 - Roman Roulette
+* [X] uva1451 - Gondwanaland Telecom
+* [X] uva1461 - ID Codes
+* [X] uva1471 - Dollars
 * [X] uva1513 - Movie collection
 * [X] uva1610 - Party Games
 * [X] uva1617 - Laptop
 * [X] uva1619 - Feel Good
+* [X] uva1671 - The Sultan's Successors
+* [X] uva2721 - TEX Quotes
+* [X] uva2941 - Divisors
+* [X] uva3521 - The Seasonal War
+* [X] uva3531 - Pesky Palindromes
+* [X] uva3571 - Let Me Count The Ways
+* [X] uva3741 - Big Mod
+* [X] uva3921 - Polynomial Showdown
+* [X] uva4021 - M\*A\*S\*H
+* [X] uva4551 - Periodic Strings
+* [X] uva4581 - The Decoder
+* [X] uva4761 - Points in Figures: Rectangles
+* [X] uva4771 - Points in Figures: Rectangles and Circles
+* [X] uva4881 - Triangle Wave
+* [X] uva5141 - Rails
+* [X] uva5241 - Prime Ring Problem
+* [ ] uva5721 - Oil Deposits
+* [X] uva5791 - Clock Hands
+* [X] uva5911 - Box of Bricks
+* [X] uva6241 - CD
+* [X] uva6741 - Coin Change
+* [X] uva6861 - Goldbach's Conjecture (II)
+* [X] uva7141 - Copying Books
+* [X] uva7501 - 8 Queens Chess Problem
+* [X] uva9081 - Re-connecting Computer Sites
+* [X] uva9131 - Joana and the Odd Numbers
+* [X] uva9901 - Diving for gold
 * [X] uva10015 - Joseph's Cousin
 * [X] uva10018 - Reverse and Add
 * [X] uva10035 - Primary Arithmetic

@@ -8,7 +8,7 @@ int main()
 	freopen("uva12694.in","r",stdin);
 	freopen("uva12694.out","w",stdout);
 	#endif
-	
+
 	vector< pair<int,int> > meeting;
 	int times;
 	scanf("%d",&times);
@@ -22,8 +22,8 @@ int main()
 		while(scanf("%d %d",&start_time,&end_time) && (!!end_time || !!start_time))
 		{
 			meeting.push_back(make_pair(end_time,start_time));
-		
-			
+
+
 		}
 		sort(meeting.begin(),meeting.end());
 		// for (int i = 0; i < meeting.size(); ++i)
@@ -44,6 +44,6 @@ int main()
 
 		printf("%d\n", cnt);
 	}
-	
+
 	return 0;
 }

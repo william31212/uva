@@ -150,18 +150,6 @@ int main()
 					dfs(j,i);
 				}
 
-				for(int i = 1; i <= r; i++)
-				{
-					for (int j = 1; j <= c; ++j)
-					{
-
-						// printf("%d %d %d \n",i,j,graph[i][j] );
-						// printf("%3d",graph[i][j] );
-
-					}
-					// printf("\n");
-				}
-
 			}
 		}
 
