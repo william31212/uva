@@ -126,6 +126,7 @@
 * [X] uva11689 - Soda Surpler
 * [X] uva11716 - Digital Fortress
 * [X] uva11743 - Credit Check
+* [X] uva11747 - Heavy Cycle Edges
 * [X] uva11764 - Jumping Mario
 * [X] uva11875 - Brick Game
 * [X] uva11879 - Multiple of 17
