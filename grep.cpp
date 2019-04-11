@@ -7,7 +7,7 @@ struct dirent *ent;
 
 int main()
 {
-    freopen("README.md","w",stdout);
+    freopen("test.md","w",stdout);
     if ((dir = opendir("c:\\Users\\Sandy\\Desktop\\code\\uva")) != NULL)
     {
       /* print all the files and directories within directory */

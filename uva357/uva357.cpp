@@ -1,53 +1,51 @@
-#include <iostream>
+#include <bits/stdc++.h>
 
 using namespace std;
 
-int main(void){
-	#ifndef ONLINE_JUDGE
-	freopen("uva357.in","r",stdin);
-	freopen("uva357.out","w",stdout);
+#define PROBLEM "uva357"
+#define TESTC ""
+
+#define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
+typedef pair<int, int> P;
+#define F first
+#define S second
+#define INF 0x3f3f3f3f
+#define MP make_pair
+#define PB push_back
+#define LL long long
+
+int main()
+{
+	#ifdef DBG
+	freopen(PROBLEM TESTC ".in", "r", stdin);
+	freopen(PROBLEM ".out", "w", stdout);
 	#endif
 
-	int coin[4]={5,10,25,50};
-	long long kind[30005];
+	LL cent;
+	LL dp[40000];
+	LL coin[5] = {1,5,10,25,50};
+	memset(dp,0,sizeof(dp));
+	dp[0] = 1;
 
-	fill(kind,kind+30005,1);
-
-
-	for (int i = 0; i < 4; ++i)
+	for (int i = 0; i < 5; ++i)
 	{
-		for (int j = 1; j <= 30000 ; ++j)
+		for (int j = 1; j < 30005; ++j)
 		{
-			if (j >= coin[i])
+			if(j >= coin[i])
 			{
-				kind[j] += kind[j - coin[i]];
+				dp[j] += dp[j-coin[i]];
 			}
 		}
 	}
 
-	// for (int i = 1; i <= 30000; ++i)
-	// {
-	// 	printf("%lld\n", kind[i]);
-	// }
-	
-	
-	int num;
-	while(scanf("%d",&num)!= EOF)
+
+	while(cin >> cent)
 	{
-		if (kind[num] == 1)
-		{
-			printf("There is only 1 way to produce %d cents change.\n",num);
-		}
+		if(dp[cent] == 1)
+			printf("There is only %lld way to produce %lld cents change.\n", dp[cent], cent);
 		else
-		{
-			printf("There are %lld ways to produce %d cents change.\n",kind[num],num);
-		}
+			printf("There are %lld ways to produce %lld cents change.\n", dp[cent], cent);
 	}
-
-
 
 	return 0;
 }
-
-
-	
