@@ -141,6 +141,7 @@
 * [X] uva12195 - Jingle Composing
 * [X] uva12208 - How Many Ones Needed?
 * [X] uva12289 - One-Two-Three
+* [ ] uva12299 - RMQ with Shifts
 * [X] uva12356 - Army Buddies
 * [X] uva12405 - Scarecrow
 * [X] uva12406 - Help Dexter
