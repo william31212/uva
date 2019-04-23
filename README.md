@@ -129,6 +129,7 @@
 * [X] uva11747 - Heavy Cycle Edges
 * [X] uva11764 - Jumping Mario
 * [X] uva11875 - Brick Game
+* [X] uva11876 - N + NOD (N)
 * [X] uva11879 - Multiple of 17
 * [X] uva11936 - The Lazy Lumberjacks
 * [X] uva11942 - Lumberjack Sequencing
@@ -141,7 +142,7 @@
 * [X] uva12195 - Jingle Composing
 * [X] uva12208 - How Many Ones Needed?
 * [X] uva12289 - One-Two-Three
-* [ ] uva12299 - RMQ with Shifts
+* [X] uva12299 - RMQ with Shifts
 * [X] uva12356 - Army Buddies
 * [X] uva12405 - Scarecrow
 * [X] uva12406 - Help Dexter
