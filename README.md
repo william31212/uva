@@ -118,6 +118,7 @@
 * [X] uva11491 - Erasing and Winning
 * [X] uva11494 - Queen
 * [X] uva11498 - Division of Nlogonia
+* [X] uva11503 - Virtual Friends
 * [X] uva11541 - Decoding
 * [X] uva11577 - Letter Frequency
 * [X] uva11582 - Colossal Fibonacci Numbers!
@@ -129,7 +130,6 @@
 * [X] uva11747 - Heavy Cycle Edges
 * [X] uva11764 - Jumping Mario
 * [X] uva11875 - Brick Game
-* [X] uva11876 - N + NOD (N)
 * [X] uva11879 - Multiple of 17
 * [X] uva11936 - The Lazy Lumberjacks
 * [X] uva11942 - Lumberjack Sequencing

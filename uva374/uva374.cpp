@@ -33,7 +33,7 @@ int main()
 	#endif
 
 	long long B,P,M;
-	
+
 	while(cin >> B >> P >> M)
 	{
 		if (P == 0)

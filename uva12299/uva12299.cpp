@@ -123,7 +123,6 @@ int main()
 					tmp = 0;
 				}
 			}
-			// printf("pos1:%d, pos2:%d\n",pos[0],pos[1]);
 			query(1, 0, len-1, pos[0], pos[1]);
 			printf("%d\n",ans);
 		}
@@ -161,8 +160,6 @@ int main()
 				update(1, 0, len-1, pos[i], A[pos[i]]);
 			}
 
-			// for (auto i : pos)
-			// 	cout << "pos:" << i << '\n';
 		}
 	}
 
