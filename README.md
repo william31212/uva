@@ -29,7 +29,7 @@
 * [X] uva488 - Triangle Wave
 * [X] uva514 - Rails
 * [X] uva524 - Prime Ring Problem
-* [x] uva572 - Oil Deposits
+* [X] uva572 - Oil Deposits
 * [X] uva579 - Clock Hands
 * [X] uva591 - Box of Bricks
 * [X] uva624 - CD
@@ -42,8 +42,8 @@
 * [X] uva990 - Diving for gold
 * [X] uva1149 - Bin Packing
 * [X] uva1152 - 4 Values whose Sum is 0
-* [X] uva1213 - Sum of Different Primes
 * [X] uva1203 - Argus
+* [X] uva1213 - Sum of Different Primes
 * [X] uva1234 - RACING
 * [X] uva1513 - Movie collection
 * [X] uva1610 - Party Games
@@ -60,6 +60,7 @@
 * [X] uva10107 - What is the Median?
 * [X] uva10127 - Ones
 * [X] uva10130 - SuperSale
+* [X] uva10131 - Is Bigger Smarter?
 * [X] uva10141 - Request for Proposal
 * [X] uva10178 - Count the Faces.
 * [X] uva10209 - Is This Integration ?
