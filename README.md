@@ -84,6 +84,7 @@
 * [X] uva10673 - Play with Floor and Ceil
 * [X] uva10696 - f91
 * [X] uva10721 - Bar Codes
+* [X] uva10739 - String to Palindrome
 * [X] uva10783 - Odd Sum
 * [X] uva10789 - Prime Frequency
 * [X] uva10812 - Beat the Spread!
