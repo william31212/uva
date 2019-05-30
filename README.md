@@ -64,6 +64,7 @@
 * [X] uva10141 - Request for Proposal
 * [X] uva10178 - Count the Faces.
 * [X] uva10209 - Is This Integration ?
+* [X] uva10221 - Satellites
 * [X] uva10222 - Decode the Mad man
 * [X] uva10258 - Contest Scoreboard
 * [X] uva10285 - Longest Run on a Snowboard
@@ -130,6 +131,7 @@
 * [X] uva11687 - Digits
 * [X] uva11689 - Soda Surpler
 * [X] uva11716 - Digital Fortress
+* [X] uva11729 - Commando War
 * [X] uva11743 - Credit Check
 * [X] uva11747 - Heavy Cycle Edges
 * [X] uva11764 - Jumping Mario
