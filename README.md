@@ -29,6 +29,7 @@
 * [X] uva488 - Triangle Wave
 * [X] uva514 - Rails
 * [X] uva524 - Prime Ring Problem
+* [X] uva531 - Compromise
 * [X] uva572 - Oil Deposits
 * [X] uva579 - Clock Hands
 * [X] uva591 - Box of Bricks
