@@ -3,6 +3,7 @@
 * [X] uva100 - The 3n + 1 problem
 * [X] uva101 - The Blocks Problem
 * [X] uva102 - Ecological Bin Packing
+* [X] uva103 - Stacking Boxes
 * [X] uva104 - Arbitrage
 * [X] uva107 - The Cat in the Hat
 * [X] uva111 - History Grading
