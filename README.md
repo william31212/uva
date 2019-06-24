@@ -56,6 +56,7 @@
 * [X] uva10038 - Jolly Jumpers
 * [X] uva10055 - Hashmat the Brave Warrior
 * [X] uva10062 - Tell me the frequencies!
+* [X] uva10066 - The Twin Towers
 * [X] uva10071 - Back to High School Physics
 * [X] uva10082 - WERTYU
 * [X] uva10107 - What is the Median?
