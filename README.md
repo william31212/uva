@@ -24,6 +24,7 @@
 * [X] uva374 - Big Mod
 * [X] uva392 - Polynomial Showdown
 * [X] uva402 - M\*A\*S\*H
+* [X] uva437 - The Tower of Babylon
 * [X] uva455 - Periodic Strings
 * [X] uva458 - The Decoder
 * [X] uva476 - Points in Figures: Rectangles
