@@ -104,6 +104,7 @@
 * [X] uva10963 - The Swallowing Ground
 * [X] uva10976 - Fractions Again?!
 * [X] uva10980 - Lowest Price in Town
+* [X] uva10986 - Sending email
 * [X] uva11059 - Maximum Product
 * [X] uva11172 - Relational Operator
 * [X] uva11185 - Ternary
