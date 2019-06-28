@@ -53,6 +53,7 @@
 * [X] uva1610 - Party Games
 * [X] uva1617 - Laptop
 * [X] uva1619 - Feel Good
+* [X] uva10000 - Longest Paths
 * [X] uva10015 - Joseph's Cousin
 * [X] uva10018 - Reverse and Add
 * [X] uva10035 - Primary Arithmetic
