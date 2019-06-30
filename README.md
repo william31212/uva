@@ -46,6 +46,7 @@
 * [X] uva990 - Diving for gold
 * [X] uva1149 - Bin Packing
 * [X] uva1152 - 4 Values whose Sum is 0
+* [X] uva1175 - Ladies' Choice
 * [X] uva1203 - Argus
 * [X] uva1213 - Sum of Different Primes
 * [X] uva1234 - RACING
