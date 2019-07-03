@@ -100,6 +100,7 @@
 * [X] uva10855 - Rotated square
 * [X] uva10878 - Decode the tape
 * [X] uva10903 - Rock-Paper-Scissors Tournament
+* [X] uva10917 - Walk Through the Forest
 * [X] uva10920 - Spiral Tap
 * [X] uva10924 - Prime Words
 * [X] uva10929 - You can say 11
