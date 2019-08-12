@@ -6,6 +6,7 @@
 * [X] uva103 - Stacking Boxes
 * [X] uva104 - Arbitrage
 * [X] uva107 - The Cat in the Hat
+* [ ] uva109 - SCUD Busters
 * [X] uva111 - History Grading
 * [X] uva113 - Power of Cryptography
 * [X] uva118 - Mutant Flatworld Explorers
@@ -73,6 +74,7 @@
 * [X] uva10209 - Is This Integration ?
 * [X] uva10221 - Satellites
 * [X] uva10222 - Decode the Mad man
+* [ ] uva10256 - The Great Divide
 * [X] uva10258 - Contest Scoreboard
 * [X] uva10285 - Longest Run on a Snowboard
 * [X] uva10300 - Ecological Premium
@@ -89,6 +91,7 @@
 * [X] uva10570 - Meeting with Aliens
 * [X] uva10589 - Area
 * [X] uva10591 - Happy Number
+* [X] uva10625 - GNU = GNU's Not Unix
 * [X] uva10673 - Play with Floor and Ceil
 * [X] uva10696 - f91
 * [X] uva10721 - Bar Codes
