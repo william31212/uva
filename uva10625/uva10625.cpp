@@ -42,7 +42,6 @@ int main()
 			indic[str[i][0]] = 1;
 		}
 			
-
 		int query;
 		scanf("%d",&query);
 		string ori;
@@ -93,19 +92,9 @@ int main()
 					dp[kk][0] = dp[kk][1];
 					dp[kk][1] = 0;
 				}
-
-				
 			}
-			
 			cout << dp[ans][0] << '\n';
-			
-			
 		}
-		
-		
-		
-		
 	}
-
 	return 0;
 }
