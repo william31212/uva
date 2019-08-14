@@ -94,6 +94,7 @@
 * [X] uva10591 - Happy Number
 * [X] uva10625 - GNU = GNU's Not Unix
 * [X] uva10673 - Play with Floor and Ceil
+* [X] uva10684 - The jackpot
 * [X] uva10696 - f91
 * [X] uva10721 - Bar Codes
 * [X] uva10739 - String to Palindrome
