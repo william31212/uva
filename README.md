@@ -75,6 +75,7 @@
 * [X] uva10209 - Is This Integration ?
 * [X] uva10221 - Satellites
 * [X] uva10222 - Decode the Mad man
+* [X] uva10226 - Hardwood Species
 * [ ] uva10256 - The Great Divide
 * [X] uva10258 - Contest Scoreboard
 * [X] uva10285 - Longest Run on a Snowboard
