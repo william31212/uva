@@ -45,6 +45,7 @@
 * [X] uva825 - Walking on the Safe Side
 * [X] uva908 - Re-connecting Computer Sites
 * [X] uva913 - Joana and the Odd Numbers
+* [X] uva978 - Lemmings Battle!
 * [X] uva990 - Diving for gold
 * [X] uva1149 - Bin Packing
 * [X] uva1152 - 4 Values whose Sum is 0
