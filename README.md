@@ -43,6 +43,7 @@
 * [X] uva714 - Copying Books
 * [X] uva750 - 8 Queens Chess Problem
 * [X] uva825 - Walking on the Safe Side
+* [X] uva846 - Steps
 * [X] uva908 - Re-connecting Computer Sites
 * [X] uva913 - Joana and the Odd Numbers
 * [X] uva978 - Lemmings Battle!
