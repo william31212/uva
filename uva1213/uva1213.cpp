@@ -2,30 +2,33 @@
 
 using namespace std;
 
-#define TESTC ""
 #define PROBLEM "uva1213"
+#define TESTC ""
 
 #define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
+typedef pair<int, int> P;
+#define F first
+#define S second
+#define INF 0x3f3f3f3f
+#define MP make_pair
+#define PB push_back
 
-bool visit[1500];
-int prime[1500];
-int prime_cnt = 0;
-int dp[1205][15][2];
+bool flag[1125];
+int dp[1125][15];
+
+vector<int> prime;
 
 
 void build()
 {
-	memset(visit,true,sizeof(visit));
-
-	for (int i = 2; i < 1200; ++i)
+	memset(flag,0,sizeof(0));
+	for(int i = 2; i < 1125; i++)
 	{
-		if (visit[i])
+		if(!flag[i])
 		{
-			prime[prime_cnt++] = i;
-			for (int j = i + i; j < 1200; j += i)
-			{
-				visit[j] = false;
-			}
+			prime.push_back(i);
+			for(int j = i+i; j < 1125; j += i)
+				flag[j] = 1;
 		}
 	}
 }
@@ -38,41 +41,37 @@ int main()
 	freopen(PROBLEM ".out", "w", stdout);
 	#endif
 
-	build();
-	
-	dp[0][0][0] = 1;
-	for (int k = 0; k < prime_cnt; ++k)
-	{
-		for (int i = 1; i <= 1120; i++)
-		{
-			for (int j = 1; j <= 14; ++j)
-			{
-				if (i >= prime[k])
-				{
-					dp[i][j][1] = dp[ i-prime[k] ][j-1][0] + dp[i][j][1];
-				}
-				
-			}
-		}
+	memset(dp, 0, sizeof(dp));
+	dp[0][0] = 1;
 
-		for (int i = 1; i <= 1120; i++)//0,1 package
+	build();
+
+	//初始狀態: 和要是0,用0個prime組成,所以有一種方法
+	//轉移狀態: 確定要選這個prime[k]質數，由我現在枚舉到的總合(i)，去看說前一層沒選他的時候方法數是多少，加上原本有選他的方法數
+	// k 枚舉Prime, 有2, 有2,3, 有2,3,5....
+	// i 從最大總和往回推
+	// j 枚舉現在選了幾個數
+
+	for(int k = 0; k < prime.size(); k++)
+	{
+		for(int i = 1124; i >= prime[k]; i--)
 		{
-			for (int j = 1; j <= 14; ++j)//range
+			for(int j = 1; j < 15; j++)
 			{
-				dp[i][j][0] = dp[i][j][1];
-				
+				dp[i][j] += dp[i-prime[k]][j-1];
 			}
 		}
 	}
 
-	
 	int n,k;
-
-	while(~scanf("%d %d",&n,&k))
+	while(cin >> n >> k)
 	{
-		if (!n && !k)
+		if(!n && !k)
 			break;
-		printf("%d\n",dp[n][k][1]);
+		else
+		{
+			printf("%d\n",dp[n][k]);
+		}
 	}
 
 	return 0;

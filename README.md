@@ -144,6 +144,7 @@
 * [X] uva11498 - Division of Nlogonia
 * [X] uva11503 - Virtual Friends
 * [ ] uva11509 - Maximum Product
+* [ ] uva11536 - Smallest Sub-Array
 * [X] uva11541 - Decoding
 * [X] uva11577 - Letter Frequency
 * [X] uva11582 - Colossal Fibonacci Numbers!
