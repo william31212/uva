@@ -54,6 +54,7 @@
 * [X] uva1203 - Argus
 * [X] uva1213 - Sum of Different Primes
 * [X] uva1234 - RACING
+* [X] uva1442 - Cave
 * [X] uva1494 - Qin Shi Huang's National Road System
 * [X] uva1513 - Movie collection
 * [X] uva1594 - Ducci Sequence
