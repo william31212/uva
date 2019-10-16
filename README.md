@@ -132,7 +132,7 @@
 * [X] uva11340 - Newspaper
 * [X] uva11352 - Crazy King
 * [X] uva11364 - Parking
-* [X] uva11367 - Full Tank?
+* [ ] uva11367 - Full Tank?
 * [X] uva11369 - Shopaholic
 * [X] uva11374 - Airport Express
 * [X] uva11398 - The Base-1 Number System
