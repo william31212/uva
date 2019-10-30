@@ -103,6 +103,7 @@
 * [X] uva10673 - Play with Floor and Ceil
 * [X] uva10684 - The jackpot
 * [X] uva10696 - f91
+* [X] uva10706 - Number Sequence
 * [X] uva10721 - Bar Codes
 * [X] uva10739 - String to Palindrome
 * [X] uva10783 - Odd Sum
@@ -146,7 +147,7 @@
 * [X] uva11498 - Division of Nlogonia
 * [X] uva11503 - Virtual Friends
 * [ ] uva11509 - Maximum Product
-* [ ] uva11536 - Smallest Sub-Array
+* [X] uva11536 - Smallest Sub-Array
 * [X] uva11541 - Decoding
 * [X] uva11577 - Letter Frequency
 * [X] uva11582 - Colossal Fibonacci Numbers!
