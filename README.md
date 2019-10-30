@@ -134,7 +134,7 @@
 * [X] uva11340 - Newspaper
 * [X] uva11352 - Crazy King
 * [X] uva11364 - Parking
-* [ ] uva11367 - Full Tank?
+* [X] uva11367 - Full Tank?
 * [X] uva11369 - Shopaholic
 * [X] uva11374 - Airport Express
 * [X] uva11398 - The Base-1 Number System
@@ -168,6 +168,7 @@
 * [X] uva11991 - Easy Problem from Rujia Liu?
 * [X] uva11997 - K Smallest Sums
 * [X] uva12019 - Doom's Day Algorithm
+* [X] uva12086 - Potentiometers
 * [X] uva12149 - Feynman
 * [X] uva12195 - Jingle Composing
 * [X] uva12208 - How Many Ones Needed?
