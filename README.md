@@ -63,6 +63,7 @@
 * [X] uva1619 - Feel Good
 * [X] uva1620 - Lazy Susan
 * [X] uva10000 - Longest Paths
+* [X] uva10008 - What's Cryptanalysis?
 * [X] uva10015 - Joseph's Cousin
 * [X] uva10018 - Reverse and Add
 * [X] uva10035 - Primary Arithmetic
