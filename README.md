@@ -59,6 +59,7 @@
 * [X] uva1513 - Movie collection
 * [X] uva1594 - Ducci Sequence
 * [X] uva1610 - Party Games
+* [X] uva1612 - Guess
 * [X] uva1617 - Laptop
 * [X] uva1619 - Feel Good
 * [X] uva1620 - Lazy Susan

@@ -17,7 +17,7 @@ struct node
 {
 	char a;
 	int num;
-	bool operator<(const node &r)
+	bool operator < (const node &r)
 	{
 		if (num == r.num)
 			return a < r.a;
@@ -25,8 +25,6 @@ struct node
 			return num > r.num;
 	}
 }word[26];
-
-
 
 int main()
 {
