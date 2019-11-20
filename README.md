@@ -90,6 +90,7 @@
 * [X] uva10285 - Longest Run on a Snowboard
 * [X] uva10300 - Ecological Premium
 * [X] uva10340 - All in All
+* [X] uva10342 - Always Late
 * [X] uva10364 - Square
 * [X] uva10370 - Above Average
 * [X] uva10382 - Watering Grass
