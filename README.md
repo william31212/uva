@@ -79,6 +79,7 @@
 * [X] uva10130 - SuperSale
 * [X] uva10131 - Is Bigger Smarter?
 * [X] uva10141 - Request for Proposal
+* [X] uva10152 - ShellSort
 * [X] uva10178 - Count the Faces.
 * [X] uva10209 - Is This Integration ?
 * [X] uva10221 - Satellites
