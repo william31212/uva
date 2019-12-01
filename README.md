@@ -165,6 +165,7 @@
 * [X] uva11743 - Credit Check
 * [X] uva11747 - Heavy Cycle Edges
 * [X] uva11764 - Jumping Mario
+* [X] uva11790 - Murcia’s Skyline
 * [X] uva11875 - Brick Game
 * [X] uva11879 - Multiple of 17
 * [X] uva11936 - The Lazy Lumberjacks
