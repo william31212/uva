@@ -53,6 +53,7 @@ LL CRT()
 		tM = M / m[i];
 		//ans = a(模完結果)*M*t(M的逆元), t用費馬小求,
 		ans = (ans + (a[i] * tM % M) * pow_mod(tM, Euler(m[i]) - 1, m[i]) % M) % M;
+		print("%d\n",ans);
 	}
 	return ans;
 }

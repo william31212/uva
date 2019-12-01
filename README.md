@@ -122,6 +122,7 @@
 * [X] uva10920 - Spiral Tap
 * [X] uva10924 - Prime Words
 * [X] uva10929 - You can say 11
+* [X] uva10930 - A-Sequence
 * [X] uva10963 - The Swallowing Ground
 * [X] uva10976 - Fractions Again?!
 * [X] uva10980 - Lowest Price in Town
