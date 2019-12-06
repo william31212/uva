@@ -6,6 +6,7 @@
 * [X] uva103 - Stacking Boxes
 * [X] uva104 - Arbitrage
 * [X] uva107 - The Cat in the Hat
+* [X] uva108 - Maximum Sum
 * [ ] uva109 - SCUD Busters
 * [X] uva111 - History Grading
 * [X] uva113 - Power of Cryptography
@@ -101,6 +102,7 @@
 * [X] uva10473 - Simple Base Conversion
 * [X] uva10499 - The Land of Justice
 * [X] uva10550 - Combination Lock
+* [X] uva10555 - Dead Fraction
 * [X] uva10570 - Meeting with Aliens
 * [X] uva10589 - Area
 * [X] uva10591 - Happy Number
