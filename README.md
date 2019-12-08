@@ -33,6 +33,7 @@
 * [X] uva477 - Points in Figures: Rectangles and Circles
 * [X] uva488 - Triangle Wave
 * [X] uva514 - Rails
+* [X] uva516 - Prime Land
 * [X] uva524 - Prime Ring Problem
 * [X] uva531 - Compromise
 * [X] uva572 - Oil Deposits
