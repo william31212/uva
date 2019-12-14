@@ -41,6 +41,7 @@
 * [X] uva591 - Box of Bricks
 * [X] uva624 - CD
 * [X] uva674 - Coin Change
+* [X] uva679 - Dropping Balls
 * [X] uva686 - Goldbach's Conjecture (II)
 * [X] uva714 - Copying Books
 * [X] uva750 - 8 Queens Chess Problem
