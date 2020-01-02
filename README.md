@@ -131,7 +131,7 @@
 * [X] uva10976 - Fractions Again?!
 * [X] uva10980 - Lowest Price in Town
 * [X] uva10986 - Sending email
-* [ ] uva11057 - Exact Sum
+* [X] uva11057 - Exact Sum
 * [X] uva11059 - Maximum Product
 * [X] uva11136 - Hoax or what
 * [X] uva11172 - Relational Operator
